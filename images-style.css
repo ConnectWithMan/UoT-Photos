@@ -129,7 +129,7 @@ button, i {
   outline: none;
   border: none;
   cursor: pointer;
-  border-radius: 0px;
+  border-radius: 8px;
   transition: 0.2s ease;
 }
 .details button {
@@ -172,7 +172,7 @@ button, i {
   padding: 20px;
   max-width: 850px;
   background: #fff;
-  border-radius: 0px;
+  border-radius: 10px;
   opacity: 0;
   pointer-events: none;
   transform: translate(-50%, -50%) scale(0.9);
@@ -207,7 +207,7 @@ header .buttons i {
   line-height: 40px;
   text-align: center;
   background: #4c9aff;
-  border-radius: 0px;
+  border-radius: 8px;
   transition: 0.2s ease;
 }
 header .buttons i:first-child:hover {
